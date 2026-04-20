@@ -12,6 +12,7 @@ Chef's Corner is a modern web application built with React and TypeScript that a
 - Responsive design for mobile and desktop
 - Fast and smooth user experience with animations
 
+
 ## Prerequisites
 
 Before running this application, make sure you have the following installed:
